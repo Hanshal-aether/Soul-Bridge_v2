@@ -190,4 +190,4 @@ MIT License
 
 **SoulBridge** · *border-less care* · ESTD. 2025
 
-[Website](https://soulbridge.netlify.app) · [Contact](mailto:support.soulbridge@gmail.com) · [Twitter/X](https://x.com/itsHanshal)
+[Website](https://soul-bridgewaitlist-page.vercel.app/) · [Contact](mailto:support.soulbridge@gmail.com) · [Twitter/X](https://x.com/itsHanshal)
