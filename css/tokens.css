@@ -1,0 +1,18 @@
+/* tokens.css — SoulBridge design tokens */
+:root {
+  --bg:#0D1A0A; --card:#162012; --border:#1D2A18;
+  --sage:#7BC47A; --sage-hi:#A8D9A7; --sage-lo:#4A7849;
+  --cream:#F0EBE1; --cream2:#C4BEB5; --muted:#687865;
+  --nav-bg:rgba(13,26,10,.86); --inp-bg:rgba(255,255,255,.04);
+  --inp-br:rgba(255,255,255,.09); --glow:rgba(123,196,122,.11);
+  --glow-btn:rgba(123,196,122,.28);
+  --rs:8px; --rm:14px; --rl:24px; --rp:100px;
+}
+html[data-theme="light"] {
+  --bg:#F2F6F0; --card:#FFFFFF; --border:#CFDECB;
+  --sage:#2D7A2C; --sage-hi:#235F22; --sage-lo:#4E9A4D;
+  --cream:#131E12; --cream2:#364D34; --muted:#789076;
+  --nav-bg:rgba(242,246,240,.92); --inp-bg:rgba(0,0,0,.03);
+  --inp-br:rgba(0,0,0,.11); --glow:rgba(45,122,44,.07);
+  --glow-btn:rgba(45,122,44,.22);
+}
