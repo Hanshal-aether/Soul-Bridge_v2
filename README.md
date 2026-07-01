@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="SoulBridge Logo" width="180" />
+<img src="assets/logo.png" alt="SoulBridge Logo" width="180" />
 
 # SoulBridge
 
